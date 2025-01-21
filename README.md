@@ -57,3 +57,10 @@ You can run the server in development mode using nodemon:
 ```bash
 npm run dev
 ```
+
+## Postman Collection
+
+You can use the following Postman collection to test the API endpoints:
+
+- [Mock Test API Postman Collection](https://documenter.getpostman.com/view/29743624/2sAYQcGBCd)
+
